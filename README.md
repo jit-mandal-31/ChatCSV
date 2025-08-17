@@ -69,6 +69,3 @@ streamlit run app.py
   * *“List employees who joined after 2020.”*
   * *“Show top 5 highest salaries.”*
 
----
-
-👉 Do you want me to also generate a **requirements.txt file** for this project so you can just run `pip install -r requirements.txt`?
