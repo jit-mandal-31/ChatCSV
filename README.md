@@ -5,7 +5,7 @@ Here’s a clean **README.md** for your project 👇
 
 ---
 
-# Chat with CSV using Hugging Face LLM 🤖📊
+
 
 ## 📌 Overview
 
