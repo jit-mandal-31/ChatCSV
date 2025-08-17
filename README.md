@@ -1,7 +1,6 @@
 # ChatCSV
 Built a Chat with CSV app using Streamlit, Pandas, and Hugging Face’s Mistral-7B LLM. Users can upload CSV files and ask natural language questions to analyze data. The system processes CSV context and provides insights, making data exploration simple for non-technical users.
 
-Here’s a clean **README.md** for your project 👇
 
 ---
 
